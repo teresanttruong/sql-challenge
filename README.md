@@ -1,14 +1,14 @@
 # sql-challenge
 
--- Introduction
+## Introduction
 Two weeks have passed since initiation as a newly hired data engineer at Pewlett Hackard (a fictitious corporation). This initial significant assignment involves conducting a research project focused on the individuals who were part of the company's workforce during the 1980s and 1990s. The sole remnants of the employee database from that era consist of six CSV files.
 
 This project encompasses crafting tables to accommodate the data extracted from the CSV files, importing the CSV files into a SQL database, and subsequently addressing inquiries related to the data. In essence, this assignment tasks associated with data modeling, data engineering, and data analysis sequentially.
 
-Data Modeling
+## Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
 
-Data Engineering
+## Data Engineering
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 
 Remember to specify the data types, primary keys, foreign keys, and other constraints.
@@ -19,7 +19,7 @@ Be sure to create the tables in the correct order to handle the foreign keys.
 
 Import each CSV file into its corresponding SQL table.
 
-Data Analysis
+## Data Analysis
 List the employee number, last name, first name, sex, and salary of each employee.
 
 List the first name, last name, and hire date for the employees who were hired in 1986.
